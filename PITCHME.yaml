@@ -1,0 +1,12 @@
+published : true
+theme : simple
+theme-override : template/css/PITCHME.css
+
+logo : assets/img/logo/git-logo.png
+logo-position : top-left
+
+highlight : atom-one-dark
+
+transition : none
+
+title : "Why I use GIT via CMD"

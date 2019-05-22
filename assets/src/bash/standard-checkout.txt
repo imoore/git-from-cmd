@@ -1,0 +1,5 @@
+[develop ≡]
+[develop ≡] git fetch
+[develop ≡] git pull --rebase
+[develop ≡] git checkout -b <branch_name>
+[develop ≡] git push --set-upstream origin <branch_name>
