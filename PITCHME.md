@@ -92,6 +92,15 @@ Standard Git Checkout Process.
 My Git Checkout Process.
 @snapend
 
++++?code=assets/src/bash/piped.cmd&lang=bash
+@title[My Git Checkout Process]
+
+@[1]
+
+@snap[north-east template-note text-gray]
+My Git Checkout Process.
+@snapend
+
 +++?code=assets/src/bash/gitalias.config&lang=bash
 @title[GIT Alias File]
 
