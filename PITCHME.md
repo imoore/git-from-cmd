@@ -95,8 +95,6 @@ My Git Checkout Process.
 +++?code=assets/src/bash/piped.cmd&lang=bash
 @title[My Git Checkout Process]
 
-@[1]
-
 @snap[north-east template-note text-gray]
 My Git Checkout Process.
 @snapend
