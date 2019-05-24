@@ -86,7 +86,8 @@ Standard Git Checkout Process.
 +++?code=assets/src/bash/my_process.txt&lang=bash
 @title[My Git Checkout Process]
 
-@[1-2](Thats it)
+@[1](This does three commands at once)
+@[2](This sets the upstream for the new branch)
 
 @snap[north-east template-note text-gray]
 My Git Checkout Process.
